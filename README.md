@@ -49,7 +49,7 @@
 ## 🚀 Um pouco sobre mim:
 - 🔭 Atualmente estudando *Analise de Desenvolvimento de Sistemas*  
 - 🌱 Aprofundando em *MySQL*  
-- ⚡ Curiosidade: gosto de unir *tecnologia + educação*  
+- ⚡ Curiosidade: gosto *tecnologia* e de me aperfeiçoar cade vez mais nelas
 
 ---
 
