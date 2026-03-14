@@ -10,9 +10,9 @@
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rborges-silva)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vit3n_?igsh=MWI2dXJ6em50MzRjMQ==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_VictorGabryel)
+[![Instagram]()
+[![LinkedIn]()
+[![Twitter]()
 
 </div>
 
@@ -43,13 +43,6 @@
 <img alt="MySQL" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
 </div>
-
----
-
-## 📂 Últimos Projetos:
-- 🎯 <a href="https://rborges-silva.github.io/projeto-guiaestudo/" target="_blank">Projeto Guia de Estudo</a>
-- 📜 <a href="https://rborges-silva.github.io/projeto-cordel/" target="_blank">Projeto Cordel</a>
-- 🛡️ <a href="https://rborges-silva.github.io/projeto-safevoice/" target="_blank">Projeto SafeVoice</a>
 
 ---
 
