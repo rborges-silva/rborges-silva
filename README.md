@@ -10,8 +10,8 @@
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rborges-silva)
-[![Instagram]()
-[![LinkedIn]()
+[![Instagram](https://www.instagram.com/rafaelreisbs/)
+[![LinkedIn](https://www.linkedin.com/in/rafael-reis-8b9427289/)
 [![Twitter]()
 
 </div>
@@ -47,8 +47,8 @@
 ---
 
 ## 🚀 Um pouco sobre mim:
-- 🔭 Atualmente estudando *desenvolvimento web e banco de dados*  
-- 🌱 Aprofundando em *PHP e MySQL*  
+- 🔭 Atualmente estudando *Analise de Desenvolvimento de Sistemas*  
+- 🌱 Aprofundando em *MySQL*  
 - ⚡ Curiosidade: gosto de unir *tecnologia + educação*  
 
 ---
