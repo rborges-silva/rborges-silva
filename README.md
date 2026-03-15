@@ -10,8 +10,8 @@
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rborges-silva)
-[![Instagram](https://www.instagram.com/rafaelreisbs/)
-[![LinkedIn](https://www.linkedin.com/in/rafael-reis-8b9427289/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafaelreisbs/?hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/))
 [![Twitter]()
 
 </div>
