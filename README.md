@@ -46,6 +46,12 @@
 
 ---
 
+## 📂 Últimos Projetos:
+- 🎯 <a href="https://rborges-silva.github.io/projeto-guiaestudo/" target="_blank">Projeto Guia de Estudo</a>
+- 🛡️ <a href="https://rborges-silva.github.io/projeto-safevoice/" target="_blank">Projeto SafeVoice</a>
+
+---
+
 ## 🚀 Um pouco sobre mim:
 - 🔭 Atualmente estudando *Analise de Desenvolvimento de Sistemas*  
 - 🌱 Aprofundando em *MySQL*  
