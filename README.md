@@ -40,6 +40,7 @@
 <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img alt="MySQL" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45" width="50">
 
 </div>
 
